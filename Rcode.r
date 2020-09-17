@@ -28,7 +28,7 @@ packageVersion("effects") #v4.1.4
 packageVersion("afex") #v0.27.2
 
 
-######Import datasets######
+######Import dataset######
 
 #Binomial mortality data of Culex quinquefasciatus
 dataBIN=read.csv("./Delnat-et-al_CulexMortality_Binomial.csv", sep=",", na.strings=c(""))
